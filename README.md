@@ -96,7 +96,9 @@ Some key questions solved in this project:
 - `insights.txt` → Business insights generated from data  
 - `dataset.csv` → Source dataset files  
 
----
+---Links
+GitHub Project: Uber Ride Data Analysis using SQL
+https://github.com/sandhyadewani99/UBER-RIDE-DATA-ANALYSIS-SQL
 
 🚀 How to Run This Project
 
