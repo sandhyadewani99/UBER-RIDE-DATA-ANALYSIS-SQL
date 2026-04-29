@@ -1,0 +1,15 @@
+1. Weekday rides dominate the platform, with an average fare of 2050.68, indicating strong commuter demand during working days.
+
+2. A significant number of drivers have completed more than 100 rides, contributing heavily to the overall platform earnings.
+
+3. Cash and credit cards are the most commonly used payment methods, showing a preference for both traditional and digital payment options.
+
+4. Certain pickup locations contribute a higher percentage of total rides, highlighting key demand hubs within the city.
+
+5. A few passengers account for the highest total spending, indicating the presence of high-value customers on the platform.
+
+6. Long-distance rides (above 19 km) are handled by a subset of drivers, suggesting specialisation or availability for extended trips.
+
+7. The most common pickup and drop-off location pairs indicate frequent travel routes, useful for route optimisation and pricing strategies.
+
+8. Monthly fare trends show variation in average ride prices, suggesting seasonal demand patterns across different months.
